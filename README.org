@@ -1,0 +1,3 @@
+#+title: Mainim Diagrams
+
+This repo was created because there needed to be created a diagram of a Helmholtz coil with its magnetic field lines. However, this could not be done in =tikz-3dplot=.
